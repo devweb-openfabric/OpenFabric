@@ -1,0 +1,33 @@
+body{
+background-image:url(../img/logo_background.jpg);
+background-repeat: no-repeat;
+background-position: center;}
+
+html { overflow-y: scroll; }
+html { overflow: -moz-scrollbars-vertical; }
+html { overflow-x: auto;}
+	
+#pagina{
+	max-height: 600px;
+	
+}
+#pag_topo{
+	
+	height: 123px;
+	background-image: url("../img/backini2.png");
+	
+}
+#pag_menu{
+	
+	max-height: 30px;
+	
+}
+#pag_corpo{
+	
+	height: 440px;
+	margin-top: 3px;
+}
+#pag_rodape{
+	background-color:black;
+	height: 50px;
+}
